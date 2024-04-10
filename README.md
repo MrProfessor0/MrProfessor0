@@ -1,4 +1,6 @@
-### Hi I am Ajinkya 👋
+<h1 align="center"> Hi I am Ajinkya 👋 </h1>
+
+<h3 align="center"> I Love to contribute in society through my code  </h3>
 
 <!--
 **MrProfessor0/MrProfessor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
