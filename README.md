@@ -8,6 +8,11 @@
 - 💬 Ask me about Anything related to Tech.
 - 📫 How to reach me: **ajinkyasvibhute@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="linkedin.com/in/ajinkyavibhute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajinkyavibhute" height="30" width="40" /></a>
+</p>
 
 <!--
 **MrProfessor0/MrProfessor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
