@@ -3,8 +3,8 @@
 <h3 align="center"> I Love to contribute in society through my code  </h3>
 
 
-- 🌱 I’m currently exploring **Python, Data Science, AWS Cloud**
-- 🔭 I’m currently working on **Data Structure & Algorithms**
+- 🌱 I’m currently exploring **Data Structure & Algorithms**
+- 🔭 I’m currently working on **Python, Data Science, AWS Cloud**
 - 💬 Ask me about Anything related to Tech.
 - 📫 How to reach me: **ajinkyasvibhute@gmail.com**
 
