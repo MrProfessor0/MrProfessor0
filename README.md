@@ -1,3 +1,4 @@
+<!--
 <h1 align="center"> Hi I am Ajinkya 👋 </h1>
 
 <h3 align="center"> I Love to contribute in society through my code  </h3>
@@ -24,4 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
 -->
