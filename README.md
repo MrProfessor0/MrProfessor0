@@ -7,9 +7,7 @@
 - 🌱 I’m currently exploring **Data Structure & Algorithms**
 - 🔭 I’m currently working on **Python, Data Science, AWS Cloud**
 - 💬 Ask me about Anything related to Tech.
-<!--
-- 📫 How to reach me: **ajinkyasvibhute@gmail.com**
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +17,8 @@
 </p>
 
 <!--
+- 📫 How to reach me: 
+
 **MrProfessor0/MrProfessor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Anything related to Tech.**
 
+<!--
 - 📫 How to reach me **ajinkyasvibhute@gmail.com**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
