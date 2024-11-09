@@ -7,7 +7,9 @@
 - 🌱 I’m currently exploring **Data Structure & Algorithms**
 - 🔭 I’m currently working on **Python, Data Science, AWS Cloud**
 - 💬 Ask me about Anything related to Tech.
+<!--
 - 📫 How to reach me: **ajinkyasvibhute@gmail.com**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
